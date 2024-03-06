@@ -1,0 +1,27 @@
+Type, Size, Parents_dir_Name, Name
+directory,4096,Seminar8,.idea
+file,1592,Seminar8,CSV_to_JSON.py
+file,2579,Seminar8,Homework8.py
+file,1149,Seminar8,Json_to_pickle.py
+file,136,Seminar8,name_id.json
+file,216,Seminar8,name_id_hash_json.csv
+file,532,Seminar8,name_id_hash_json.json
+file,2201,Seminar8,Name_id_level_to_JSON.py
+file,1016,Seminar8,object_list.csv
+file,2466,Seminar8,object_list.json
+directory,4096,Seminar8,Pikcle_files
+file,1539,Seminar8,Pikcle_to_CSV.py
+file,484,Seminar8,Read_as_pikcle.py
+file,861,Seminar8,To_CSV.py
+file,928,Seminar8,To_JSON.py
+file,184,.idea,.gitignore
+directory,0,.idea,inspectionProfiles
+file,186,.idea,misc.xml
+file,275,.idea,modules.xml
+file,291,.idea,Seminar8.iml
+file,12542,.idea,workspace.xml
+file,174,inspectionProfiles,profiles_settings.xml
+file,988,inspectionProfiles,Project_Default.xml
+file,3490,Pikcle_files,js_file.pickle
+file,125,Pikcle_files,name_id.pickle
+file,382,Pikcle_files,name_id_hash_json.pickle
